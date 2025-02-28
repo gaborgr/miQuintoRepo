@@ -1,5 +1,6 @@
 README.md
 setup.py
+miQuintoRepo/__init__.py
 miQuintoRepo.egg-info/PKG-INFO
 miQuintoRepo.egg-info/SOURCES.txt
 miQuintoRepo.egg-info/dependency_links.txt
